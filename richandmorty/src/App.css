@@ -1,0 +1,12 @@
+body {
+  font-size: 18px;
+  background-color: darkorange;
+}
+
+h1 {
+  font-family: verdana;
+  text-align: center;
+  font-weight: bold;
+  font-size: calc(2em + 3vw)
+}
+
